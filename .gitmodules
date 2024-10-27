@@ -25,3 +25,6 @@
 [submodule "other/interviews"]
 	path = other/interviews
 	url = https://gitee.com/saber71/interviews.git
+[submodule "kotlin/tools"]
+	path = kotlin/tools
+	url = https://github.com/saber71/kotlin-tools.git

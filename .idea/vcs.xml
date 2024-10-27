@@ -9,6 +9,8 @@
     <mapping directory="$PROJECT_DIR$/js/scripts" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/js/tools" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/js/vue-class" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kotlin/tools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/other/interviews" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/vite/external-deps-plugin" vcs="Git" />
   </component>
 </project>
