@@ -34,3 +34,6 @@
 [submodule "kotlin/terminal-base"]
 	path = kotlin/terminal-base
 	url = https://github.com/saber71/kotlin-terminal-base.git
+[submodule "vite/console"]
+	path = vite/console
+	url = https://github.com/saber71/vite-console.git
