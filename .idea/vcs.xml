@@ -2,5 +2,13 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/js/collection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/js/http-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/js/injectify" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/js/query" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/js/scripts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/js/tools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/js/vue-class" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vite/external-deps-plugin" vcs="Git" />
   </component>
 </project>

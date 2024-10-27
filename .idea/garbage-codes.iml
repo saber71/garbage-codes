@@ -2,7 +2,20 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/js/collection/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/js/http-test/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/js/query/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/js/tools/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/js/vue-class/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vite/external-deps-plugin/test" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/js/collection/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/js/http-test/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/js/query/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/js/tools/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/js/vue-class/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/vite/external-deps-plugin/dist" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

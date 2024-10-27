@@ -1,3 +1,27 @@
 [submodule "js/http-test"]
 	path = js/http-test
 	url = https://github.com/saber71/js-http-test.git
+[submodule "js/scripts"]
+	path = js/scripts
+	url = https://github.com/saber71/js-scripts.git
+[submodule "js/query"]
+	path = js/query
+	url = https://github.com/saber71/js-query.git
+[submodule "js/tools"]
+	path = js/tools
+	url = https://github.com/saber71/js-tools.git
+[submodule "js/vue-class"]
+	path = js/vue-class
+	url = https://github.com/saber71/js-vue-class.git
+[submodule "js/collection"]
+	path = js/collection
+	url = https://github.com/saber71/js-collection.git
+[submodule "vite/external-deps-plugin"]
+	path = vite/external-deps-plugin
+	url = https://github.com/saber71/vite-external-deps-plugin.git
+[submodule "js/injectify"]
+	path = js/injectify
+	url = https://github.com/saber71/js-injectify.git
+[submodule "other/interviews"]
+	path = other/interviews
+	url = https://gitee.com/saber71/interviews.git
