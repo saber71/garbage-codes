@@ -31,3 +31,6 @@
 [submodule "kotlin/tree-fs"]
 	path = kotlin/tree-fs
 	url = https://github.com/saber71/kotlin-tree-fs.git
+[submodule "kotlin/terminal-base"]
+	path = kotlin/terminal-base
+	url = https://github.com/saber71/kotlin-terminal-base.git

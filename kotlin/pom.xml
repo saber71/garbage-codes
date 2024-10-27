@@ -18,6 +18,7 @@
     <modules>
         <module>tools</module>
         <module>tree-fs</module>
+        <module>terminal-base</module>
     </modules>
 
     <repositories>

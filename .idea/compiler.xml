@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="tools" />
         <module name="tree-fs" />
+        <module name="terminal-base" />
       </profile>
     </annotationProcessing>
   </component>
