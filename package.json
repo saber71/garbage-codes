@@ -1,0 +1,7 @@
+{
+  "name": "garbage-codes",
+  "private": "true",
+  "devDependencies": {
+    "prettier": "latest"
+  }
+}
