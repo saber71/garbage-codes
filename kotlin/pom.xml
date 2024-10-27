@@ -17,6 +17,7 @@
 
     <modules>
         <module>tools</module>
+        <module>tree-fs</module>
     </modules>
 
     <repositories>

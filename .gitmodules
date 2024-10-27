@@ -28,3 +28,6 @@
 [submodule "kotlin/tools"]
 	path = kotlin/tools
 	url = https://github.com/saber71/kotlin-tools.git
+[submodule "kotlin/tree-fs"]
+	path = kotlin/tree-fs
+	url = https://github.com/saber71/kotlin-tree-fs.git
