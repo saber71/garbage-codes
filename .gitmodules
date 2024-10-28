@@ -37,3 +37,6 @@
 [submodule "vite/console"]
 	path = vite/console
 	url = https://github.com/saber71/vite-console.git
+[submodule "kotlin/console"]
+	path = kotlin/console
+	url = https://github.com/saber71/kotlin-console.git
