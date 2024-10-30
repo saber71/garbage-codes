@@ -9,8 +9,6 @@
     <mapping directory="$PROJECT_DIR$/js/scripts" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/js/tools" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/js/vue-class" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/kotlin/console" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/kotlin/terminal-base" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kotlin/tools" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kotlin/tree-fs" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/other/interviews" vcs="Git" />

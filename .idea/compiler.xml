@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="console" />
         <module name="tools" />
         <module name="tree-fs" />
-        <module name="terminal-base" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="console" target="22" />
+      <module name="terminal-base" target="22" />
+    </bytecodeTargetLevel>
   </component>
 </project>
