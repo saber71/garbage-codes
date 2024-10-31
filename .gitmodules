@@ -40,3 +40,6 @@
 [submodule "kotlin/console"]
 	path = kotlin/console
 	url = https://github.com/saber71/kotlin-console.git
+[submodule "js/ansi"]
+	path = js/ansi
+	url = https://github.com/saber71/js-ansi.git
